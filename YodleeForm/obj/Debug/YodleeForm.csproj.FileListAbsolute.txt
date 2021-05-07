@@ -1,4 +1,0 @@
-C:\Users\meadj\Downloads\YodleeWinForms-addFiles\YodleeWinForms-addFiles\YodleeForm\obj\Debug\YodleeForm.csprojAssemblyReference.cache
-C:\Users\meadj\Downloads\YodleeWinForms-addFiles\YodleeWinForms-addFiles\YodleeForm\obj\Debug\YodleeForm.frmMain.resources
-C:\Users\meadj\Downloads\YodleeWinForms-addFiles\YodleeWinForms-addFiles\YodleeForm\obj\Debug\YodleeForm.frmUpdateUser.resources
-C:\Users\meadj\Downloads\YodleeWinForms-addFiles\YodleeWinForms-addFiles\YodleeForm\obj\Debug\YodleeForm.csproj.GenerateResource.cache
