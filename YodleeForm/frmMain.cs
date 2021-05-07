@@ -10,7 +10,7 @@ namespace YodleeForm
     public partial class frmMain : Form
     {
         // Temporary values for testing only
-        private readonly string TEMP_usersFilePath = @"C:\Users\meadj\Downloads\YodleeFormv2\YodleeForm\YodleeForm\Users.txt";
+        private readonly string TEMP_usersFilePath = @"C:\Users\meadj\Downloads\YodleeWinForms\YodleeWinForms\YodleeForm\Users.txt";
         private readonly int TEMP_fakeDate = -7;
 
         // Dictionary to store user names/user IDs
